@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Caw-ai
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+An aspiring dev.
